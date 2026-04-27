@@ -1,3 +1,6 @@
 # Practica FinTech
 
-Aplicación simple para ordenar palabras.
+Aplicación para ordenar palabras.
+
+## Ejecución
+python app.py
