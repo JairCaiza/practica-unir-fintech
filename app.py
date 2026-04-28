@@ -1,5 +1,5 @@
 def sort_list(words):
-    return sorted(words)
+    return sorted(list(set(words)))
 
 if __name__ == "__main__":
     words = ["banana", "apple", "cherry"]
